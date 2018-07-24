@@ -1,2 +1,2 @@
-# zouden.github.io
-Front page
+# Some Projects
+Hardware & Firmware designs
